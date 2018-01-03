@@ -1,0 +1,4 @@
+org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread
+org.telegram.telegrambots.updatesreceivers.DefaultBotSession
+org.telegram.telegrambots.updatesreceivers.DefaultBotSession$UpdatesSupplier
+org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread

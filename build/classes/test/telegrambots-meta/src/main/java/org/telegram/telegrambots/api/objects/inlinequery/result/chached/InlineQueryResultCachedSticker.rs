@@ -1,0 +1,1 @@
+org.telegram.telegrambots.api.objects.inlinequery.result.chached.InlineQueryResultCachedSticker

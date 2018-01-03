@@ -1,0 +1,2 @@
+org.telegram.telegrambots.api.methods.groupadministration.SetChatStickerSet$1
+org.telegram.telegrambots.api.methods.groupadministration.SetChatStickerSet

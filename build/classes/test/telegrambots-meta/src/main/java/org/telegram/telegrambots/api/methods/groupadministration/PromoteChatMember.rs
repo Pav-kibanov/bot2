@@ -1,0 +1,2 @@
+org.telegram.telegrambots.api.methods.groupadministration.PromoteChatMember$1
+org.telegram.telegrambots.api.methods.groupadministration.PromoteChatMember

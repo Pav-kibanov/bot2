@@ -1,0 +1,3 @@
+org.telegram.telegrambots.api.methods.updatingmessages.EditMessageReplyMarkup$2
+org.telegram.telegrambots.api.methods.updatingmessages.EditMessageReplyMarkup$1
+org.telegram.telegrambots.api.methods.updatingmessages.EditMessageReplyMarkup

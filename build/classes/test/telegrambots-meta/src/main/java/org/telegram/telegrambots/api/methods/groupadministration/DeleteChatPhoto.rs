@@ -1,0 +1,2 @@
+org.telegram.telegrambots.api.methods.groupadministration.DeleteChatPhoto$1
+org.telegram.telegrambots.api.methods.groupadministration.DeleteChatPhoto

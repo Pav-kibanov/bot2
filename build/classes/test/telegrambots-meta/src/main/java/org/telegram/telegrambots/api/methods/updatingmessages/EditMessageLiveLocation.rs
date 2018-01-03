@@ -1,0 +1,3 @@
+org.telegram.telegrambots.api.methods.updatingmessages.EditMessageLiveLocation$2
+org.telegram.telegrambots.api.methods.updatingmessages.EditMessageLiveLocation
+org.telegram.telegrambots.api.methods.updatingmessages.EditMessageLiveLocation$1

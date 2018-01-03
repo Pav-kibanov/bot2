@@ -1,0 +1,3 @@
+org.telegram.telegrambots.bots.timedbot.TimedSendLongPollingBot$MessageSenderTask
+org.telegram.telegrambots.bots.timedbot.TimedSendLongPollingBot
+org.telegram.telegrambots.bots.timedbot.TimedSendLongPollingBot$MessageQueue
